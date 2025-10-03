@@ -49,7 +49,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c22"
-		"xpos_minmode" "c-60"
+		"xpos_minmode" "c-60" //c-75 is perfectly aligned with hp
 		"ypos"	"c25"
 		"ypos_minmode" "c30"
 		"wide"	"150"
@@ -1559,5 +1559,16 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"fillcolor"		"255 0 0 255"
+	}
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"c-202"
+		"ypos"				"r56"
+		"wide"				"100"
+		"tall"				"16"
+		"visible" 			"1"
+		"enabled" 			"1"
 	}
 }
