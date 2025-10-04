@@ -49,9 +49,9 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c22"
-		"xpos_minmode" "c-60" //c-75 is perfectly aligned with hp
+		"xpos_minmode" "c-75" //c-75 is perfectly aligned with hp
 		"ypos"	"c25"
-		"ypos_minmode" "c30"
+		"ypos_minmode" "c40"
 		"wide"	"150"
 		"tall"	"125"
 	}
@@ -490,7 +490,7 @@
 		"TeamBlue"		"ahudBlue"
 		"TeamRed"		"ahudRed"
 		"IconColor"		"White"
-		"LocalPlayerColor"	"Black"
+		"LocalPlayerColor"	"White"
 
 		"BaseBackgroundColor"	"0 0 0 0"
 		"LocalBackgroundColor"	"0 0 0 0"

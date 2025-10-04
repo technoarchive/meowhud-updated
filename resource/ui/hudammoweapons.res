@@ -111,6 +111,7 @@
 		"font"			"aRegular28"
 		"fgcolor"		"Ammo No Clip"
 		"xpos"			"17"
+		"xpos_minmode"	"33"
 		"ypos"			"35"
 		"zpos"			"5"
 		"wide"			"86"

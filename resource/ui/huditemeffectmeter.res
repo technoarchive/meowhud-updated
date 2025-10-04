@@ -7,6 +7,7 @@
 		"enabled"		"1"
 		"xpos"			"c-75"
 		"ypos"			"c123"
+		"ypos_minmode"	"c148"
 		"wide"			"150"
 		"tall"			"8"
 		"MeterFG"		"TanLight"

@@ -89,7 +89,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"IndividualChargesLabelShadow"
-		"xpos"			"c113"
+		"xpos"			"c93"
 		"ypos"			"c-137"
 		"zpos"			"2"
 		"wide"			"200"
