@@ -108,7 +108,7 @@
 		"tall_minmode"	"96"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"Hudblack"
+		"bgcolor_override"	"0 0 0 127"
 
 		"pin_to_sibling"	"BlueScoreBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

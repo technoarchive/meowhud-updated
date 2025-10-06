@@ -319,7 +319,7 @@
 		"tall"			"123"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"Hudblack"
+		"bgcolor_override"	"0 0 0 127"
 	}
 	"WinningTeamLabel"
 	{

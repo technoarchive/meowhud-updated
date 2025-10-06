@@ -47,7 +47,7 @@
 			"proportionaltoparent"	"1"
 			"scaleimage"	"1"
 			"mouseinputenabled"	"0"
-			"alpha"		"100"
+			"alpha"		"0"
 
 			"image"		"gradient_pure_black"
 		}
@@ -64,7 +64,7 @@
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
 			"border"		"NoBorder"
-			"bgcolor_override"	"ahudDarkGrey"
+			"bgcolor_override"	"0 0 0 0"
 			"proportionaltoparent"	"1"
 		}
 
@@ -79,7 +79,7 @@
 			"tall"			"p1"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"border"		"OuterShadowBorder"
+			"border"		"NoBorder"
 			"proportionaltoparent"	"1"
 		}
 
@@ -618,8 +618,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"0 0 0 0 255"
-			"defaultBgColor_override"	"0 0 0 0 255"
+			"armedBgColor_override"		"0 0 0 0"
+			"defaultBgColor_override"	"0 0 0 0"
 
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
@@ -677,8 +677,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"0 0 0 0 255"
-			"defaultBgColor_override"	"0 0 0 0 255"
+			"armedBgColor_override"		"0 0 0 0"
+			"defaultBgColor_override"	"0 0 0 0"
 
 			"defaultFgColor_override" "ahudWhite"
 			"armedFgColor_override" "ahudWhite"
@@ -736,8 +736,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-		//	"armedBgColor_override"		"0 0 0 255"
-		//	"defaultBgColor_override"	"0 0 0 255"
+		//	"armedBgColor_override"		"0 0 0 0"
+		//	"defaultBgColor_override"	"0 0 0 0"
 
 			"defaultFgColor_override" "ahudWhite"
 			"armedFgColor_override" "ahudWhite"
@@ -794,8 +794,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"armedBgColor_override"		"0 0 0 0 255"
-			"defaultBgColor_override"	"0 0 0 0 255"
+			"armedBgColor_override"		"0 0 0 0"
+			"defaultBgColor_override"	"0 0 0 0"
 
 			"defaultFgColor_override" "ahudWhite"
 			"armedFgColor_override" "ahudWhite"

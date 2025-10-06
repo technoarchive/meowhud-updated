@@ -187,7 +187,7 @@ Scheme
 		Panel.FgColor				"ahudDullWhite"
 		Panel.BgColor				"Blank"
 		
-		ProgressBar.FgColor			"ahudWhite"
+		ProgressBar.FgColor			"ahudRed"
 		ProgressBar.BgColor			"HudBlack"
 		
 		PropertySheet.TextColor				"ahudDullWhite"

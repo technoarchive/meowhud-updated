@@ -433,7 +433,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"CreditsGreen"
+						"fgcolor_override"	"ahudRed"
 					}
 
 					"Frame"
