@@ -49,9 +49,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c22"
-		"xpos_minmode" "c-60" //c-75 is perfectly aligned with hp
 		"ypos"	"c25"
-		"ypos_minmode" "c30"
 		"wide"	"150"
 		"tall"	"125"
 	}
@@ -99,8 +97,9 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"0"
-		"ypos"			"c65"
+		"xpos"			"-3"
+		"ypos"			"265"
+		"ypos_minmode" "c30"
 		"wide"			"f0"
 		"tall"			"300"
 	}
@@ -226,7 +225,6 @@
 	{
 		"fieldName"				"CDamageAccountPanel"
 		"xpos"					"0"
-		"xpos_minmode"				"c-330"
 		"ypos"					"20"
 		"wide"					"f0"
 		"tall"					"480"
