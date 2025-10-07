@@ -5,5 +5,4 @@
 #base   "scheme/fontpaths.res"
 #base	"scheme/fonts.res"
 
-#base	"scheme/xhairs.res"
 #base	"crosshairs/crosshair_scheme.res"
