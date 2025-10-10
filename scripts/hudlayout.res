@@ -406,7 +406,7 @@
 		"TeamBlue"									"HUDBlueTeamSolid"
 		"TeamRed"									"HUDRedTeamSolid"
 		"IconColor"									"White"
-		"LocalPlayerColor"							"HUDBlack"
+		"LocalPlayerColor"							"White"
 		"BaseBackgroundColor"						"Blank"
 		"LocalBackgroundColor"						"Blank"
 	}

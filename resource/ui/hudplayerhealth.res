@@ -41,7 +41,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"HudFontMedium"
+		"font"										"HudFontMediumBig"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"HealthAnchor"
@@ -62,7 +62,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"HudFontMedium"
+		"font"										"HudFontMediumBig"
 		"fgcolor"									"LabelTransparent"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"

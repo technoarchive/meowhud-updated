@@ -25,7 +25,7 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontMedium"
+		"font"										"HudFontMediumBig"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"AmmoAnchor"
@@ -45,7 +45,7 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontMedium"
+		"font"										"HudFontMediumBig"
 		"fgcolor"									"LabelTransparent"
 
 		"pin_to_sibling"							"AmmoInClip"
@@ -63,8 +63,8 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"font"										"HudFontMediumest"
-		"fgcolor"									"White"
+		"font"										"HudFontMediumSmall"
+		"fgcolor"									"Main"
 
 		"pin_to_sibling"							"AmmoAnchor"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -73,7 +73,7 @@
 	"AmmoInReserveShadow"
 	{
 		"ControlName"								"CExLabel"
-		"fieldName"									"AmmoInReserveshadow"
+		"fieldName"									"AmmoInReserveShadow"
 		"xpos"										"-1"
 		"ypos"										"0"
 		"zpos"										"7"
@@ -83,7 +83,7 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"font"										"HudFontMediumest"
+		"font"										"HudFontMediumSmall"
 		"fgcolor"									"LabelTransparent"
 
 		"pin_to_sibling"							"AmmoInReserve"
@@ -91,7 +91,7 @@
 	"AmmoNoClip"
 	{
 		"ControlName"								"CExLabel"
-		"fieldName"									"AmmonoClip"
+		"fieldName"									"AmmoNoClip"
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
@@ -101,7 +101,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontMedium"
+		"font"										"HudFontMediumBig"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"AmmoAnchor"
@@ -121,7 +121,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontMedium"
+		"font"										"HudFontMediumBig"
 		"fgcolor"									"LabelTransparent"
 
 		"pin_to_sibling"							"AmmoNoClip"
