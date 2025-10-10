@@ -54,8 +54,8 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"BackButton"
-		"xpos"										"9999"
-		"ypos"										"9999"
+		"xpos"										"cs-0.5"
+		"ypos"										"rs1"
 		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"18"
@@ -69,10 +69,12 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 
 		"paintbackground"							"1"
-		"defaultBgColor_override"					"FooterBGBlack"
-		"armedBgColor_override"						"Main"
+		"defaultBgColor_override"					"Blank"
+		"armedBgColor_override"						"Blank"
+		"depressedBgColor_override"					"Blank"
 
-		"armedFgColor_override"						"White"
+		"armedFgColor_override"						"Main"
+		"depressedFgColor_override"					"White"
 		"defaultFgColor_override"					"White"
 	}
 	"BackShortKey"

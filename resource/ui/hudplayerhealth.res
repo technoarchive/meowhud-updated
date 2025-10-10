@@ -4,8 +4,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"HudPlayerHealth"
-		"xpos"										"c-365"
-		"ypos"										"-50"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"f0"
@@ -15,12 +15,12 @@
 		"HealthDeathWarning"						"0.49"
 		"HealthDeathWarningColor"					"HUDDeathWarning"
 	}
-	"HealthAnchor"
+	"HealthAnchor" //use this to move the hp
 	{
 		"ControlName"								"Panel"
 		"fieldName"									"HealthAnchor"
-		"xpos"										"c-150"
-		"ypos"										"c90"
+		"xpos"										"c-80"
+		"ypos"										"c40"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"40"

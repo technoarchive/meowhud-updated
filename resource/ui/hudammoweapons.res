@@ -1,11 +1,11 @@
 "Resource/UI/HudAmmoWeapons.res"
 {
-	"AmmoAnchor"
+	"AmmoAnchor" //use this to move ammo
 	{
 		"ControlName"								"Panel"
 		"fieldName"									"AmmoAnchor"
-		"xpos"										"c150"
-		"ypos"										"c90"
+		"xpos"										"c90"
+		"ypos"										"c40"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"40"

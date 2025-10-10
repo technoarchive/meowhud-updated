@@ -1,9 +1,8 @@
-### MeowHud
+### MeowHud (experimental)
 
 //////////
-A personal hud for TF2 based on ahud, by nokk.
+A personal hud for TF2 based on ~~ahud, by nokk.~~ lighthud, by Hypnotize
 //////////
 
-Features pretty much everything as ahud, although with some things changed to keep everything compact.
+Features pretty much everything as ~~ahuds~~ lighthuds, although with some things changed to keep everything compact.
 
-*also i updated this to have modern fixes kthxbai -techno*
