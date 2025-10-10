@@ -13,14 +13,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"0 0 0 127"
+		"bgcolor_override"	"0 0 0 0"
 	}
 
 	"SplashLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SplashLabel"
-		"font"			"HudFontSmallestBold"
+		"font"			"DefaultSmall9"
 		"labelText"		""
 		"textAlignment" "center"
 		"xpos"			"c-250"
@@ -29,6 +29,6 @@
 		"wide"			"500"
 		"tall"			"50"
 		"autoResize"	"0"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"White"
 	}
 }

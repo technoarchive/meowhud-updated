@@ -9,8 +9,8 @@
 		"ypos"			"r36"
 		"wide"			"36"
 		"tall"			"36"
-		"MeterFG"		"TanLight"
-		"MeterBG"		"Gray"
+		"MeterFG"		"Blank"
+		"MeterBG"		"Blank"
 	}
 
 	"ItemEffectMeterLabel"
@@ -31,15 +31,15 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular10"
-		"fgcolor"				"ahudWhite"
+		"font"					"HudFontSmall"
+		"fgcolor"				"White"
 	}
 
 	"ItemEffectMeter"
 	{
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
-		"font"					"Default"
+		"font"					"HudFontSmall"
 		"xpos"					"25"
 		"ypos"					"23"
 		"zpos"					"2"
@@ -71,8 +71,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular20"
-		"fgcolor"				"Killstreak"
+		"font"					"HudFontSmall"
+		"fgcolor"				"White"
 	}
 
 	"ItemEffectMeterCountShadow"
@@ -92,8 +92,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular20"
-		"fgcolor"				"ShadowBlack"
+		"font"					"HudFontSmall"
+		"fgcolor"				"Grey"
 
 		"pin_to_sibling"	"ItemEffectMeterCount"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

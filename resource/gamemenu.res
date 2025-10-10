@@ -1,52 +1,67 @@
-"GameMenu" [$WIN32]
+"Resource/GameMenu.res"
 {
-	"HomeServer"
+	"MeowHud"
 	{
-		"label"	""
-		"command" "engine JoinHomeServer"
-		"OnlyAtMenu" "1"
-		"tooltip" "Home Server"
+		"label"									"^••^"
+		"command"								"engine con_enable 1; toggleconsole; echo Meowhud by Ellie/IdiotGirl, built off LightHUD by Hypnotize. Ty for using!"
 	}
-	"SteamWorkshopButton"
+	"Servers"
 	{
-		"label" "Workshop"
-		"command" "engine OpenSteamWorkshopDialog"
-		"subimage" "glyph_steamworkshop"
-		"tooltip" "Open Steam Workshop"
+		"label"									"servers"
+		"command"								"OpenServerBrowser"
 	}
-
-	// These buttons are only shown while in-game
-	// and also are positioned by the .res file
-
-	"RequestCoachButton"
+	"Create"
 	{
-		"label"			""
-		"command"		"engine cl_coach_find_coach"
-		"OnlyInGame"	"1"
-		"subimage" "icon_whistle"
-		"tooltip" "#MMenu_RequestCoach"
+		"label"									"create"
+		"command"								"OpenCreateMultiplayerGameDialog"
+		"OnlyAtMenu"							"1"
 	}
-	"CallVoteButton"
+	"Items"
 	{
-		"label"			""
-		"command"		"callvote"
-		"OnlyInGame"	"1"
-		"subimage" "icon_checkbox"
-		"tooltip"	"#MMenu_CallVote"
+		"label"									"items"
+		"command"								"engine open_charinfo"
 	}
-	"MutePlayersButton"
+	"Store"
 	{
-		"label"			""
-		"command"		"OpenMutePlayerDialog"
-		"OnlyInGame"	"1"
-		"subimage" "glyph_muted"
-		"tooltip"	"#MMenu_MutePlayers"
+		"label"									"store"
+		"command"								"engine open_store"
 	}
-	"ReportPlayerButton"
+	"Options"
 	{
-		"label"			""
-		"command"		"OpenReportPlayerDialog"
-		"OnlyInGame"	"1"
-		"tooltip"		"#MMenu_ReportPlayer"
+		"label"									"options"
+		"command"								"OpenOptionsDialog"
+	}
+	"Advanced Options"
+	{
+		"label"									"adv.options"
+		"command"								"opentf2options"
+	}
+	"Contracker"
+	{
+		"label"									"contracts"
+		"command"								"questlog"
+	}
+	"Vote"
+	{
+		"label"									"vote"
+		"command"								"callvote"
+		"OnlyInGame"							"1"
+	}
+	"Mute"
+	{
+		"label"									"mute"
+		"command"								"OpenMutePlayerDialog"
+		"OnlyInGame"							"1"
+	}
+	"Disconnect"
+	{
+		"label"									"leave"
+		"command"								"engine disconnect"
+		"OnlyInGame"							"1"
+	}
+	"Quit"
+	{
+		"label"									"quit"
+		"command"								"engine replay_confirmquit"
 	}
 }

@@ -2,53 +2,51 @@
 {
 	"ObjectiveStatusMultipleEscort"
 	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"ObjectiveStatusMultipleEscort"
-		"xpos"				"0"
-		"ypos"				"0"
-		"wide"				"f0"
-		"tall"				"480"
-		"visible"			"1"
-		"enabled"			"1"
+		"ControlName"								"EditablePanel"
+		"fieldName"									"ObjectiveStatusMultipleEscort"
+		"xpos"										"1"
+		"ypos"										"0"
+		"wide"										"f0"
+		"tall"										"f0"
+		"visible"									"1"
+		"enabled"									"1"
 	}
-
 	"BlueEscortPanel"
 	{
-		"ControlName"		"CTFHudEscort"
-		"fieldName"			"BlueEscortPanel"
-		"xpos"				"c-145"
-		"ypos"				"r160"
-		"zpos"				"1"
-		"wide"				"400"
-		"tall"				"200"
-		"visible"			"1"
-		"enabled"			"1"
-		"progress_xpos"		"79"
-		"progress_wide"		"270"
+		"ControlName"								"CTFHudEscort"
+		"fieldName"									"BlueEscortPanel"
+		"xpos"										"cs-0.5"
+		"ypos"										"rs1"
+		"zpos"										"1"
+		"wide"										"160"
+		"tall"										"50"
+		"visible"									"1"
+		"enabled"									"1"
+		"progress_xpos"								"79"
+		"progress_wide"								"200"
 
 		"if_blue_is_top"
 		{
-			"ypos"				"r176"
+			"ypos"									"rs1-16"
 		}
 	}
-
 	"RedEscortPanel"
 	{
-		"ControlName"		"CTFHudEscort"
-		"fieldName"			"RedEscortPanel"
-		"xpos"				"c-145"
-		"ypos"				"r160"
-		"zpos"				"1"
-		"wide"				"400"
-		"tall"				"200"
-		"visible"			"1"
-		"enabled"			"1"
-		"progress_xpos"		"79"
-		"progress_wide"		"270"
+		"ControlName"								"CTFHudEscort"
+		"fieldName"									"RedEscortPanel"
+		"xpos"										"cs-0.5"
+		"ypos"										"rs1"
+		"zpos"										"1"
+		"wide"										"160"
+		"tall"										"50"
+		"visible"									"1"
+		"enabled"									"1"
+		"progress_xpos"								"79"
+		"progress_wide"								"200"
 
 		"if_red_is_top"
 		{
-			"ypos"				"r176"
+			"ypos"									"rs1-16"
 		}
 	}
 }
