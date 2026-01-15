@@ -1,4 +1,4 @@
-"Resource/UI/HudAmmoWeapons.res"
+"resource/ui/hudammoweapons.res"
 {
 	"AmmoAnchor" //use this to move ammo
 	{

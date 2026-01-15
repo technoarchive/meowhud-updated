@@ -173,8 +173,8 @@
 		"NewGame.DisabledColor"								"128 128 128 196"
 
 		"TFColors.ChatTextYellow"							"White"
-		"TFColors.ChatTextTeamBlue"							"153 204 255 255"
-		"TFColors.ChatTextTeamRed"							"255 63 53 255"
+		"TFColors.ChatTextBlue"							"153 204 255 255"
+		"TFColors.ChatTextRed"							"255 63 53 255"
 	}
 
 	"BitmapFontFiles"
@@ -786,7 +786,7 @@
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	"CustomFontFiles"
 	{
-		"1" "resource/HALFLIFE2.ttf"
-		"2" "resource/HL2EP2.ttf"
+		"1" "resource/halflife2.ttf"
+		"2" "resource/hl2ep2.ttf"
 	}
 }
