@@ -1,4 +1,4 @@
-"resource/ui/statsummary.res"
+"Resource/UI/StatSummary.res"
 {
 	"TFStatsSummary"
 	{
@@ -22,7 +22,7 @@
 		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		"image"									"\replay\thumbnails\background_load.vtf"
+		"fillcolor"									"FooterBGBlack"
 	}
 	"MapLabel"
 	{

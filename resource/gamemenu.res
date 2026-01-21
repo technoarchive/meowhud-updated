@@ -1,4 +1,4 @@
-"resource/gamemenu.res"
+"Resource/GameMenu.res"
 {
 	"MeowHud"
 	{

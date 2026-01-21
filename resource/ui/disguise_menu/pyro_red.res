@@ -1,6 +1,6 @@
 #base "scout_red.res"
 
-"resource/ui/disguise_menu/pyro_red.res"
+"Resource/UI/Disguise_Menu/Pyro_Red.res"
 {
 	"TitleBG"
 	{

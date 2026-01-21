@@ -1,9 +1,9 @@
-#base "huditemeffectmeter.res"
+#base "HudItemEffectMeter.res"
 
-"resource/ui/huditemeffectmeter_sodapopper.res"
+"Resource/UI/HudItemEffectMeter_SodaPopper.res"
 {
 	"HudItemEffectMeter"
 	{
-		"ypos"										"c115-5"
+		"ypos"										"c54.75" //c115-5 original
 	}
 }

@@ -1,6 +1,6 @@
 #base "scout_red.res"
 
-"resource/ui/disguise_menu/medic_red.res"
+"Resource/UI/Disguise_Menu/Medic_Red.res"
 {
 	"TitleBG"
 	{

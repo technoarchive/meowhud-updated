@@ -1,4 +1,4 @@
-"resource/ui/huditemeffectmeter_killstreak.res"
+"Resource/UI/HudItemEffectMeter_Killstreak.res"
 {
 	HudItemEffectMeter
 	{
@@ -93,7 +93,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"HudFontSmall"
-		"fgcolor"				"Grey"
+		"fgcolor"				"LabelTransparent"
 
 		"pin_to_sibling"	"ItemEffectMeterCount"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

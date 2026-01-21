@@ -1,4 +1,4 @@
-"resource/ui/targetid.res"
+"Resource/UI/TargetID.res"
 {
 	"TargetNameLabel"
 	{
@@ -49,7 +49,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%targetdata%"
 		"textAlignment"								"west"
-		"font"										"TargetID"
+		"font"										"FontStorePrice"
 		"disabledfgcolor2_override"					"White"
 	}
 	"SpectatorGUIHealth"

@@ -1,11 +1,11 @@
-"resource/ui/winpanel.res"
+"Resource/UI/WinPanel.res"
 {
 	"TeamScoresPanel"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"TeamScoresPanel"
 		"xpos"										"cs-0.5"
-		"ypos"										"45"
+		"ypos"										"320"
 		"wide"										"f0"
 		"tall"										"30"
 		"visible"									"1"

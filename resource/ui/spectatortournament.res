@@ -1,6 +1,6 @@
-#base "hudinspectpanel.res"
+#base "HudInspectPanel.res"
 
-"resource/ui/spectatortournament.res"
+"Resource/UI/SpectatorTournament.res"
 {
 	"SpecGUI"
 	{

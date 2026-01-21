@@ -1,11 +1,12 @@
-"resource/ui/basechat.res"
+"Resource/UI/BaseChat.res"
 {
 	"HudChat"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"HudChat"
 		"xpos"										"2"
-		"ypos"										"c-120"
+		"ypos"										"20"
+		"ypos_minmode"									"290"
 		"zpos"										"9"
 		"wide"										"260"
 		"tall"										"120"
@@ -13,7 +14,7 @@
 		"enabled"									"1"
 		"paintbackground"							"1"
 		"PaintBackgroundType"						"2"
-		"bgcolor_override"							"0 0 0 255"
+		"bgcolor_override"							"48 52 70 255"
 	}
 
 	"ChatInputLine"

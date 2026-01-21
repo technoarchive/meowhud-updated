@@ -1,4 +1,4 @@
-"resource/ui/mvmvictorysplash.res"
+"Resource/UI/MvMVictorySplash.res"
 {
 	"SplashContainer"
 	{

@@ -1,12 +1,12 @@
-"resource/ui/huditemeffectmeter.res"
+"Resource/UI/HudItemEffectMeter.res"
 {
 	"HudItemEffectMeter"
 	{
 		"fieldName"									"HudItemEffectMeter"
 		"xpos"										"cs-0.5"
-		"ypos"										"c115"
+		"ypos"										"c48.75"
 		"zpos"										"0"
-		"wide"										"80"
+		"wide"										"25"
 		"tall"										"4"
 		"visible"									"1"
 		"enabled"									"1"

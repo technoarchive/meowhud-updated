@@ -1,6 +1,6 @@
 #base "base_active.res"
 
-"resource/ui/build_menu/tele_exit_active.res"
+"Resource/UI/Build_Menu/Tele_Exit_Active.res"
 {
 	"BuildingIcon"
 	{

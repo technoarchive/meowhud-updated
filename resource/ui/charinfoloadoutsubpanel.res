@@ -1,4 +1,4 @@
-"resource/ui/charinfoloadoutsubpanel.res"
+"Resource/UI/CharInfoLoadoutSubPanel.res"
 {
 	"CharInfoLoadoutSubPanel"
 	{
@@ -12,9 +12,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"Blank"
-		"infocus_bgcolor_override"					"Blank"
-		"outoffocus_bgcolor_override"				"Blank"
+		"bgcolor_override"							"DarkBrown"
+		"infocus_bgcolor_override"					"DarkBrown"
+		"outoffocus_bgcolor_override"				"DarkBrown"
 
 		"selectlabely_default"						"9999"
 		"selectlabely_onchanges"					"9999"

@@ -1,6 +1,6 @@
 #base "matchmakingdashboardsidepanel.res"
 
-"resource/ui/matchmakingdashboardmvmmodeselect.res"
+"Resource/UI/MatchMakingDashboardMvMModeSelect.res"
 {
 	"MVMModeSelect"
 	{

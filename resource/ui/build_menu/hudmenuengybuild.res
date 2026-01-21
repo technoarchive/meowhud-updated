@@ -1,4 +1,4 @@
-"resource/ui/build_menu/hudmenuengybuild.res"
+"Resource/UI/Build_Menu/HudMenuEngyBuild.res"
 {
 	"Active_Item_1"
 	{

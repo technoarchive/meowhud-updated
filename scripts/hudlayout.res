@@ -1,4 +1,4 @@
-"scripts/hudlayout.res"
+"Scripts/HudLayout.res"
 {
 	"HudPlayerStatus"
 	{
@@ -393,7 +393,8 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"xpos"										"rs1-5"
-		"ypos"										"200"
+		"ypos"										"70"
+		"ypos_minmode"									"350"
 		"wide"										"628"
 		"tall"										"468"
 		"MaxDeathNotices"							"4"
@@ -406,7 +407,7 @@
 		"TeamBlue"									"HUDBlueTeamSolid"
 		"TeamRed"									"HUDRedTeamSolid"
 		"IconColor"									"White"
-		"LocalPlayerColor"							"White"
+		"LocalPlayerColor"							"White"  //HUDBlack
 		"BaseBackgroundColor"						"Blank"
 		"LocalBackgroundColor"						"Blank"
 	}

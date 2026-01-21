@@ -1,4 +1,4 @@
-"resource/ui/econ/inspectionpanel.res"
+"Resource/UI/Econ/InspectionPanel.res"
 {
 	"WeaponBG"
 	{
@@ -13,7 +13,7 @@
 		"enabled"									"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 		"proportionaltoparent"						"1"
 
 		"consume_mode"
@@ -223,7 +223,7 @@
 		"zpos"										"100"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 		"mouseinputenabled"							"1"
 		"proportionaltoparent"						"1"
 

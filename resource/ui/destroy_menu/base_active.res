@@ -1,4 +1,4 @@
-"resource/ui/destroy_menu/base_active.res"
+"Resource/UI/Destroy_Menu/Base_Active.res"
 {
 	"Background"
 	{

@@ -1,7 +1,7 @@
 #base "speedometer/res"
 
 
-"resource/ui/hudplayerclass.res"
+"Resource/UI/HudPlayerClass.res"
 {
 	// player class data
 	"HudPlayerClass"

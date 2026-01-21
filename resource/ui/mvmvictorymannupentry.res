@@ -1,4 +1,4 @@
-"resource/ui/mvmvictorymannupentry.res"
+"Resource/UI/MvMVictoryMannUpEntry.res"
 {
 	"MannUp_Entry"
 	{

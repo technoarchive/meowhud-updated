@@ -1,4 +1,4 @@
-"resource/ui/charinfoarmorysubpanel.res"
+"Resource/UI/CharInfoArmorySubPanel.res"
 {
 	"Armory_Panel"
 	{
@@ -14,7 +14,7 @@
 		"infocus_bgcolor_override"					"DarkBrown"
 		"outoffocus_bgcolor_override"				"DarkBrown"
 
-		"thumbnail_bgcolor"							"LighterDarkBrown"
+		"thumbnail_bgcolor"							"DarkBrown"
 		"thumbnail_bgcolor_mouseover"				"Main"
 		"thumbnail_bgcolor_selected"				"Main"
 
@@ -71,7 +71,7 @@
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 	}
 	"FilterComboBox"
 	{
@@ -92,7 +92,7 @@
 		"unicode"									"0"
 
 		"fgcolor_override"							"White"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 		"disabledFgColor_override"					"White"
 		"disabledBgColor_override"					"Blank"
 		"selectionColor_override"					"Blank"
@@ -130,7 +130,7 @@
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 
 		"pin_to_sibling"							"ItemsBG"
 		"pin_corner_to_sibling"						"PIN_BOTTOMRIGHT"
@@ -220,7 +220,7 @@
 		"visible"									"1"
 		"PaintBackgroundType"						"0"
 		"paintbackground"							"1"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 
 		"pin_to_sibling"							"ItemsBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -236,7 +236,7 @@
 			"tall"									"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"ScoreboardVerySmall"
+			"font"									"ScoreboardSmall"
 			"labelText"								"%datatext%"
 			"textAlignment"							"north-west"
 			"wrap"									"1"

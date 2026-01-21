@@ -1,10 +1,10 @@
-"resource/ui/hudammoweapons.res"
+"Resource/UI/HudAmmoWeapons.res"
 {
-	"AmmoAnchor" //use this to move ammo
+	"AmmoAnchor"
 	{
 		"ControlName"								"Panel"
 		"fieldName"									"AmmoAnchor"
-		"xpos"										"c90"
+		"xpos"										"c82"
 		"ypos"										"c40"
 		"zpos"										"0"
 		"wide"										"2"
@@ -25,7 +25,7 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontMediumBig"
+		"font"										"HudFontMedium"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"AmmoAnchor"
@@ -45,7 +45,7 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontMediumBig"
+		"font"										"HudFontMedium"
 		"fgcolor"									"LabelTransparent"
 
 		"pin_to_sibling"							"AmmoInClip"
@@ -63,7 +63,7 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"font"										"HudFontMediumSmall"
+		"font"										"ItemFontNameSmall" //closest font i could get to whats in the screenshots... -techno
 		"fgcolor"									"Main"
 
 		"pin_to_sibling"							"AmmoAnchor"
@@ -83,7 +83,7 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%AmmoInReserve%"
-		"font"										"HudFontMediumSmall"
+		"font"										"ItemFontNameSmall"
 		"fgcolor"									"LabelTransparent"
 
 		"pin_to_sibling"							"AmmoInReserve"
@@ -101,7 +101,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontMediumBig"
+		"font"										"HudFontMedium"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"AmmoAnchor"
@@ -111,7 +111,7 @@
 	"AmmoNoClipShadow"
 	{
 		"ControlName"								"CExLabel"
-		"fieldName"									"AmmonoClipshadow"
+		"fieldName"									"AmmoNoClipShadow"
 		"xpos"										"-1"
 		"ypos"										"-1"
 		"zpos"										"5"
@@ -121,7 +121,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"font"										"HudFontMediumBig"
+		"font"										"HudFontMedium"
 		"fgcolor"									"LabelTransparent"
 
 		"pin_to_sibling"							"AmmoNoClip"

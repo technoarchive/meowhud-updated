@@ -1,4 +1,4 @@
-"resource/ui/disguisestatuspanel.res"
+"Resource/UI/DisguiseStatusPanel.res"
 {
 	"DisguiseStatusBG"
 	{

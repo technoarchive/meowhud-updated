@@ -5,7 +5,7 @@
 	//===========================================================================================================================================================================
 	"Colors"
 	{
-		"Main"												"244 184 228 255"
+		"Main"												"245 194 231 255"
 		"Low"												"245 171 185 255"
 
 		"Orange"											"80 175 115 255"
@@ -32,7 +32,7 @@
 		"PartyMember5"										"255 118 108 255"
 		"PartyMember6"										"255 133 255 255"
 
-		"White"												"225 220 220 255"
+		"White"												"198 208 245 255"
 		"Red"												"245 171 185 255"
 		"RedSolid"											"245 171 185 255"
 		"Blue"												"185 231 249 255"
@@ -42,25 +42,25 @@
 		"BrightYellow"										"255 255 0 255"
 		"GreenSolid"										"80 175 115 255"
 
-		"Black"												"0 0 0 255"
-		"TransparentBlack"									"0 0 0 200"
-		"TransparentLightBlack"								"0 0 0 100"
-		"FooterBGBlack"										"32 31 30 255"
+		"Black"											"65 69 89 255"
+		"TransparentBlack"									"81 87 109 200"
+		"TransparentLightBlack"									"48 52 70 100"
+		"FooterBGBlack"										"41 44 60 255"
 
-		"HUDBlueTeam"										"185 231 249 255"
-		"HUDRedTeam"										"245 171 185 255"
-		"HUDSpectator"										"130 125 125 255"
-		"HUDBlueTeamSolid"									"185 231 249 255"
-		"HUDRedTeamSolid"									"245 171 185 255"
+		"HUDBlueTeam"										"140 170 238 255"
+		"HUDRedTeam"										"244 184 228 255"
+		"HUDSpectator"										"140 170 238 255"
+		"HUDBlueTeamSolid"									"140 170 238 255"
+		"HUDRedTeamSolid"									"244 184 228 255"
 		"HUDDeathWarning"									"255 0 0 255"
 		"HudWhite"											"225 220 220 255"
 		"HudOffWhite"										"225 220 220 255"
-		"HudBlack"											"21 20 19 255"
+		"HudBlack"											"35 38 52 255"
 		"ProgressBarBlue"									"185 231 249 255"
 
-		"CreditsGreen"										"166 209 137 255"
+		"CreditsGreen"										"166 227 161 255"
 
-		"Gray"												"150 152 157 255"
+		"Gray"												"35 38 52 255"
 
 		"Blank"												"0 0 0 0"
 
@@ -84,7 +84,7 @@
 		"TanDarker"											"32 30 30 255"
 
 		"StoreDarkTan"										"130 125 125 255"
-		"StoreGreen"										"50 112 73 255"
+		"StoreGreen"										"166 209 137 255"
 
 		"LowHealthRed"										"225 75 75 255"
 		"ProgressOffWhite"									"225 220 220 255"
@@ -171,8 +171,8 @@
 
 		"LightRed"											"80 175 115 255"
 		"LighterRed"										"80 175 115 255"
-		"LighterDarkBrown"									"72 71 70 255"
-		"DarkBrown"											"46 43 42 255"
+		"LighterDarkBrown"									"65 69 89 255"
+		"DarkBrown"											"48 52 70 255"
 
 		"UpgradeDefaultFg"									"225 220 220 255"
 		"UpgradeDefaultBg"									"32 30 30 255"
@@ -420,23 +420,23 @@
 	{
 		"DamageFont"
 		{
-			"1" { "name" "choco_cooky" "tall" "20" "antialias" "1" "dropshadow" "1" }
+			"1" { "name" "Choco cooky" "tall" "20" "antialias" "1" "dropshadow" "1" }
 		}
 		"Default"
 		{
-			"1" { "name" "choco_cooky" "tall" "14" "yres" "480 599" "antialias" "1" }
-			"2" { "name" "choco_cooky" "tall" "15" "yres" "600 767" "antialias" "1" }
-			"3" { "name" "choco_cooky" "tall" "16" "yres" "768 1023" "antialias" "1" }
-			"4" { "name" "choco_cooky" "tall" "22" "yres" "1024 1199" "antialias" "1" }
-			"5" { "name" "choco_cooky" "tall" "9" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "14" "yres" "480 599" "antialias" "1" }
+			"2" { "name" "Choco cooky" "tall" "15" "yres" "600 767" "antialias" "1" }
+			"3" { "name" "Choco cooky" "tall" "16" "yres" "768 1023" "antialias" "1" }
+			"4" { "name" "Choco cooky" "tall" "22" "yres" "1024 1199" "antialias" "1" }
+			"5" { "name" "Choco cooky" "tall" "9" "antialias" "1" }
 		}
 		"DefaultSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "14" "yres" "480 599" "antialias" "1" }
-			"2" { "name" "choco_cooky" "tall" "15" "yres" "600 767" "antialias" "1" }
-			"3" { "name" "choco_cooky" "tall" "16" "yres" "768 1023" "antialias" "1" }
-			"4" { "name" "choco_cooky" "tall" "22" "yres" "1024 1199" "antialias" "1" }
-			"5" { "name" "choco_cooky" "tall" "9" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "14" "yres" "480 599" "antialias" "1" }
+			"2" { "name" "Choco cooky" "tall" "15" "yres" "600 767" "antialias" "1" }
+			"3" { "name" "Choco cooky" "tall" "16" "yres" "768 1023" "antialias" "1" }
+			"4" { "name" "Choco cooky" "tall" "22" "yres" "1024 1199" "antialias" "1" }
+			"5" { "name" "Choco cooky" "tall" "9" "antialias" "1" }
 		}
 		"DefaultVerySmall"
 		{
@@ -448,124 +448,124 @@
 		}
 		"CenterPrintText"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" "additive" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" "additive" "1" }
 		}
 		"HudHintText"
 		{
-			"1" { "name" "choco_cooky" "tall" "15" "yres" "480 599" "antialias" "1" }
-			"2" { "name" "choco_cooky" "tall" "16" "yres" "600 767" "antialias" "1" }
-			"3" { "name" "choco_cooky" "tall" "17" "yres" "768 1023" "antialias" "1" }
-			"4" { "name" "choco_cooky" "tall" "23" "yres" "1024 1199" "antialias" "1" }
-			"5" { "name" "choco_cooky" "tall" "12" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "15" "yres" "480 599" "antialias" "1" }
+			"2" { "name" "Choco cooky" "tall" "16" "yres" "600 767" "antialias" "1" }
+			"3" { "name" "Choco cooky" "tall" "17" "yres" "768 1023" "antialias" "1" }
+			"4" { "name" "Choco cooky" "tall" "23" "yres" "1024 1199" "antialias" "1" }
+			"5" { "name" "Choco cooky" "tall" "12" "antialias" "1" }
 		}
 		"HudFontGiant"
 		{
-			"1" { "name" "choco_cooky" "tall" "24" "yres" "480 599" "antialias" "1" }
-			"2" { "name" "choco_cooky" "tall" "32" "yres" "600 767" "antialias" "1" }
-			"3" { "name" "choco_cooky" "tall" "44" "yres" "768 1023" "antialias" "1" }
-			"4" { "name" "choco_cooky" "tall" "48" "yres" "1024 1199" "antialias" "1" }
-			"5" { "name" "choco_cooky" "tall" "24" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "24" "yres" "480 599" "antialias" "1" }
+			"2" { "name" "Choco cooky" "tall" "32" "yres" "600 767" "antialias" "1" }
+			"3" { "name" "Choco cooky" "tall" "44" "yres" "768 1023" "antialias" "1" }
+			"4" { "name" "Choco cooky" "tall" "48" "yres" "1024 1199" "antialias" "1" }
+			"5" { "name" "Choco cooky" "tall" "24" "antialias" "1" }
 		}
 		"HudFontGiantBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "46" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "46" "antialias" "1" }
 		}
 		"HudFontBiggerBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "35" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "35" "antialias" "1" }
 		}
 		"HudFontBiggerBoldShadow"
 		{
-			"1" { "name" "choco_cooky" "tall" "35" "antialias" "1" "dropshadow" "1" }
+			"1" { "name" "Choco cooky" "tall" "35" "antialias" "1" "dropshadow" "1" }
 		}
 		"HudFontBig"
 		{
-			"1" { "name" "choco_cooky" "tall" "36" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "36" "antialias" "1" }
 		}
 		"HudFontMediumBig"
 		{
-			"1" { "name" "choco_cooky" "tall" "30" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "30" "antialias" "1" }
 		}
 		"HudFontMediumBigBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "30" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "30" "antialias" "1" }
 		}
 		"HudFontMedium"
 		{
-			"1" { "name" "choco_cooky" "tall" "24" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "24" "antialias" "1" }
 		}
 		"HudFontMediumSecondary"
 		{
-			"1" { "name" "choco_cooky" "tall" "24" "yres" "1 1199" "antialias" "1" }
-			"2" { "name" "choco_cooky" "tall" "10" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "24" "yres" "1 1199" "antialias" "1" }
+			"2" { "name" "Choco cooky" "tall" "10" "antialias" "1" }
 		}
 		"HudFontMediumBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "24" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "24" "antialias" "1" }
 		}
 		"HudFontMediumSmallBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" }
 		}
 		"HudFontMediumSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" }
 		}
 		"HudFontMediumSmallSecondary"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" }
 		}
 		"HudFontMediumSmallShadow"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" "dropshadow" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" "dropshadow" "1" }
 		}
 		"HudFontSmallishBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "16" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "16" "antialias" "1" }
 		}
 		"HudFontSmallishBoldShadow"
 		{
-			"1" { "name" "choco_cooky" "tall" "16" "antialias" "1" "dropshadow" "1" }
+			"1" { "name" "Choco cooky" "tall" "16" "antialias" "1" "dropshadow" "1" }
 		}
 		"HudFontSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "14" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "14" "antialias" "1" }
 		}
 		"HudFontSmallBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "14" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "14" "antialias" "1" }
 		}
 		"HudFontSmallest"
 		{
-			"1" { "name" "choco_cooky" "tall" "11" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "11" "antialias" "1" }
 		}
 		"HudFontSmallestShadow"
 		{
-			"1" { "name" "choco_cooky" "tall" "11" "antialias" "1" "dropshadow" "1" }
+			"1" { "name" "Choco cooky" "tall" "11" "antialias" "1" "dropshadow" "1" }
 		}
 		"HudFontSmallestBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "12" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "12" "antialias" "1" }
 		}
 		"StorePromotionsTitle"
 		{
-			"1" { "name" "choco_cooky" "tall" "10" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "10" "antialias" "1" }
 		}
 		"FontCartPrice"
 		{
-			"1" { "name" "choco_cooky" "tall" "16" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "16" "antialias" "1" }
 		}
 		"FontStorePrice"
 		{
-			"1" { "name" "choco_cooky" "tall" "9" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "9" "antialias" "1" }
 		}
 		"FontStoreOriginalPrice"
 		{
-			"1" { "name" "choco_cooky" "tall" "9" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "9" "antialias" "1" }
 		}
 		"FontStorePriceSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "6" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "6" "antialias" "1" }
 		}
 		"TFTypeDeath"
 		{
@@ -585,7 +585,7 @@
 		}
 		"MenuMainTitle"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" "dropshadow" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" "dropshadow" "1" }
 		}
 		"ScoreboardSmallest"
 		{
@@ -593,19 +593,19 @@
 		}
 		"ScoreboardVerySmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "8" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "8" "antialias" "1" }
 		}
 		"ScoreboardSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "10" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "10" "antialias" "1" }
 		}
 		"ScoreboardMediumSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "14" "range" "0x0000 0x007F" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "14" "range" "0x0000 0x007F" "antialias" "1" }
 		}
 		"ScoreboardMedium"
 		{
-			"1" { "name" "choco_cooky" "tall" "20" "range" "0x0000 0x007F" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "20" "range" "0x0000 0x007F" "antialias" "1" }
 		}
 		"TargetID"
 		{
@@ -613,23 +613,23 @@
 		}
 		"ChatFont"
 		{
-			"1" { "name" "choco_cooky" "tall" "16" "dropshadow" "1" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "16" "dropshadow" "1" "antialias" "1" }
 		}
 		"TFFontSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "8" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "8" "antialias" "1" }
 		}
 		"TFFontMedium"
 		{
-			"1" { "name" "choco_cooky" "tall" "9" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "9" "antialias" "1" }
 		}
 		"ImportToolSmallestBold"
 		{
-			"1" { "name" "choco_cooky" "tall" "10" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "10" "antialias" "1" }
 		}
 		"ImportToolSmallest"
 		{
-			"1" { "name" "choco_cooky" "tall" "10" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "10" "antialias" "1" }
 		}
 		"SpectatorVerySmall"
 		{
@@ -637,159 +637,159 @@
 		}
 		"ItemFontNameSmallest"
 		{
-			"1" { "name" "choco_cooky" "tall" "8" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "8" "antialias" "1" }
 		}
 		"ItemFontNameSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "9" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "9" "antialias" "1" }
 		}
 		"ItemFontNameLarge"
 		{
-			"1" { "name" "choco_cooky" "tall" "12" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "12" "antialias" "1" }
 		}
 		"ItemFontNameLarger"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" }
 		}
 		"ItemFontAttribSmallest"
 		{
-			"1" { "name" "choco_cooky" "tall" "7" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "7" "antialias" "1" }
 		}
 		"ItemFontAttribSmallv2"
 		{
-			"1" { "name" "choco_cooky" "tall" "8" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "8" "antialias" "1" }
 		}
 		"ItemFontAttribSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "8" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "8" "antialias" "1" }
 		}
 		"ItemFontAttribLarge"
 		{
-			"1" { "name" "choco_cooky" "tall" "11" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "11" "antialias" "1" }
 		}
 		"ItemFontAttribLarger"
 		{
-			"1" { "name" "choco_cooky" "tall" "14" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "14" "antialias" "1" }
 		}
 		"AchievementTracker_Name"
 		{
-			"1" { "name" "choco_cooky" "tall" "9" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "9" "antialias" "1" }
 		}
 		"QuestObjectiveTracker_Desc"
 		{
-			"1" { "name" "choco_cooky" "tall" "7" "additive" "1" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "7" "additive" "1" "antialias" "1" }
 		}
 		"QuestObjectiveTracker_DescGlow"
 		{
-			"1" { "name" "choco_cooky" "tall" "7" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "7" "antialias" "1" }
 		}
 		"QuestObjectiveTracker_DescBlur"
 		{
-			"1" { "name" "choco_cooky" "tall" "7" "blur" "3" "additive" "1" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "7" "blur" "3" "additive" "1" "antialias" "1" }
 		}
 		"ItemTrackerScore_InGame"
 		{
-			"1" { "name" "choco_cooky" "tall" "7" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "7" "antialias" "1" }
 		}
 		"QuestFlavorText"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" }
 		}
 		"QuestObjectiveText"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" }
 		}
 		"QuestLargeText"
 		{
-			"1" { "name" "choco_cooky" "tall" "16" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "16" "antialias" "1" }
 		}
 		"QuestStickyText"
 		{
-			"1" { "name" "choco_cooky" "tall" "20" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "20" "antialias" "1" }
 		}
 		"QuestInstructionText_Merasmus"
 		{
-			"1" { "name" "choco_cooky" "tall" "22" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "22" "antialias" "1" }
 		}
 		"QuestFlavorText_Merasmus"
 		{
-			"1" { "name" "choco_cooky" "tall" "22" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "22" "antialias" "1" }
 		}
 		"QuestObjectiveText_Merasmus"
 		{
-			"1" { "name" "choco_cooky" "tall" "18" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "18" "antialias" "1" }
 		}
 		"QuestMediumText_Merasmus"
 		{
-			"1" { "name" "choco_cooky" "tall" "13" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "13" "antialias" "1" }
 		}
 		"QuestLargeText_Merasmus"
 		{
-			"1" { "name" "choco_cooky" "tall" "16" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "16" "antialias" "1" }
 		}
 		"AdFont_ItemName"
 		{
-			"1" { "name" "choco_cooky" "tall" "12" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "12" "antialias" "1" }
 		}
 		"AdFont_AdText"
 		{
-			"1" { "name" "choco_cooky" "tall" "8" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "8" "antialias" "1" }
 		}
 		"AdFont_PurchaseButton"
 		{
-			"1" { "name" "choco_cooky" "tall" "8" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "8" "antialias" "1" }
 		}
 		"TradeUp_Text"
 		{
-			"1" { "name" "choco_cooky" "tall" "8" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "8" "antialias" "1" }
 		}
 		"TradeUp_Quote"
 		{
-			"1" { "name" "choco_cooky" "tall" "9" "antialias" "1" "italic" "1" }
+			"1" { "name" "Choco cooky" "tall" "9" "antialias" "1" "italic" "1" }
 		}
 		"EconFontSmall"
 		{
-			"1" { "name" "choco_cooky" "tall" "14" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "14" "antialias" "1" }
 		}
 		"EconFontMedium"
 		{
-			"1" { "name" "choco_cooky" "tall" "24" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "24" "antialias" "1" }
 		}
 		"MMenuPlayListDesc"
 		{
-			"1" { "name" "choco_cooky" "tall" "9" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "9" "antialias" "1" }
 		}
 		"XPSource"
 		{
-			"1" { "name" "choco_cooky" "tall" "11" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "11" "antialias" "1" }
 		}
 		"XPSource_Glow"
 		{
-			"1" { "name" "choco_cooky" "tall" "11" "blur" "3" "additive" "1" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "11" "blur" "3" "additive" "1" "antialias" "1" }
 		}
 		"MapVotesPercentage"
 		{
-			"1" { "name" "choco_cooky" "tall" "12" "antialias" "1" "dropshadow" "1" }
+			"1" { "name" "Choco cooky" "tall" "12" "antialias" "1" "dropshadow" "1" }
 		}
 		"QuestMap_Small_Blur"
 		{
-			"1" { "name" "choco_cooky" "tall" "7" "blur" "3" "additive" "1" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "7" "blur" "3" "additive" "1" "antialias" "1" }
 		}
 		"QuestMap_Small"
 		{
-			"1" { "name" "choco_cooky" "tall" "7" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "7" "antialias" "1" }
 		}
 		"QuestMap_Medium"
 		{
-			"1" { "name" "choco_cooky" "tall" "10" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "10" "antialias" "1" }
 		}
 		"QuestMap_Large"
 		{
-			"1" { "name" "choco_cooky" "tall" "14" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "14" "antialias" "1" }
 		}
 		"QuestMap_Huge"
 		{
-			"1" { "name" "choco_cooky" "tall" "30" "antialias" "1" }
+			"1" { "name" "Choco cooky" "tall" "30" "antialias" "1" }
 		}
 	}
 	//===========================================================================================================================================================================
@@ -1742,8 +1742,8 @@
 	{
 		"1"
 		{
-			"font" "resource/fonts/chococooky.ttf"
-			"name" "choco_cooky"
+			"font" "resource/fonts/Chococooky.ttf"
+			"name" "Choco cooky"
 		}
 		"2"
 		{

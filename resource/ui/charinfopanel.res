@@ -1,4 +1,4 @@
-"resource/ui/charinfopanel.res"
+"Resource/UI/CharInfoPanel.res"
 {
 	"Character_Info"
 	{
@@ -12,9 +12,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"1"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"Blank"
-		"infocus_bgcolor_override"					"Blank"
-		"outoffocus_bgcolor_override"				"Blank"
+		"bgcolor_override"							"DarkBrown"
+		"infocus_bgcolor_override"					"DarkBrown"
+		"outoffocus_bgcolor_override"				"DarkBrown"
 
 		"title"										""
 		"title_font"								""
@@ -69,12 +69,10 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 
 		"paintbackground"							"1"
-		"defaultBgColor_override"					"Blank"
-		"armedBgColor_override"						"Blank"
-		"depressedBgColor_override"					"Blank"
+		"defaultBgColor_override"					"DarkBrown"
+		"armedBgColor_override"						"Main"
 
-		"armedFgColor_override"						"Main"
-		"depressedFgColor_override"					"White"
+		"armedFgColor_override"						"White"
 		"defaultFgColor_override"					"White"
 	}
 	"BackShortKey"
@@ -107,19 +105,5 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-	}
-		"bg"
-	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"bg"
-		"xpos"										"0"
-		"ypos"										"1"
-		"zpos"										"-1"
-		"wide"										"f0"
-		"tall"										"480"
-		"visible"									"1"
-		"enabled"									"1"
-		"image"										"replay/thumbnails/inventorybg/inventory_bg"
-		"scaleimage"								"1"
 	}
 }

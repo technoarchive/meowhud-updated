@@ -1,4 +1,4 @@
-"resource/ui/destroy_menu/hudmenuengydestroy.res"
+"Resource/UI/Destroy_Menu/HudMenuEngyDestroy.res"
 {
 	"Active_Item_1"
 	{

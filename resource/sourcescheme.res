@@ -1,16 +1,16 @@
-#base "sourceschemebase.res"
+#base "SourceSchemeBase.res"
 
 "Scheme"
 {
 	"Colors"
 	{
-		"White"												"225 220 220 255"
+		"White"												"198 208 245 255"
 		"Main"												"244 184 228 255"
 		"Gray"												"150 150 150 255"
-		"BlackGray"											"72 71 70 255"
-		"BlackMedium"										"32 31 30 255"
-		"Black"												"0 0 0 255"
-		"TransparentBlack"									"0 0 0 125"
+		"BlackGray"											"81 87 109 255"
+		"BlackMedium"											"41 44 60 255"
+		"Black"												"65 69 89 255"
+		"TransparentBlack"										"48 52 70 125"
 	}
 	"BaseSettings"
 	{
@@ -124,6 +124,7 @@
 		"TextEntry.SelectedBgColor"							"Main"
 
 		"Console.TextColor"									"Main"
+	
 	}
 	"Fonts"
 	{

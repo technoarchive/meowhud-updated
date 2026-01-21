@@ -1,4 +1,4 @@
-"resource/ui/disguise_menu/hudmenuspydisguise.res"
+"Resource/UI/Disguise_Menu/HudMenuSpyDisguise.res"
 {
 	"Background"
 	{

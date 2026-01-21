@@ -1,4 +1,4 @@
-"resource/ui/hudobjectivekothtimepanel.res"
+"Resource/UI/HudObjectiveKothTimePanel.res"
 {
 	"BlueTimerBG"
 	{
@@ -13,7 +13,7 @@
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
-		"bgcolor_override"							"HUDBlueTeamSolid"
+		"bgcolor_override"							"Blank"
 		"alpha"										"200"
 	}
 	"BlueTimer"
@@ -59,7 +59,7 @@
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
-		"bgcolor_override"							"HUDRedTeamSolid"
+		"bgcolor_override"							"Blank"
 		"alpha"										"200"
 	}
 	"RedTimer"

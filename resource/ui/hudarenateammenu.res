@@ -1,4 +1,4 @@
-"resource/ui/hudarenateammenu.res"
+"Resource/UI/HudArenaTeamMenu.res"
 {
 	"Team"
 	{

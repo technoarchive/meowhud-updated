@@ -1,4 +1,4 @@
-"resource/ui/classloadoutpanel.res"
+"Resource/UI/ClassLoadoutPanel.res"
 {
 	"Class_Loadout_Panel"
 	{
@@ -11,9 +11,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"Blank"
-		"infocus_bgcolor_override"					"Blank"
-		"outoffocus_bgcolor_override"				"Blank"
+		"bgcolor_override"							"DarkBrown"
+		"infocus_bgcolor_override"					"DarkBrown"
+		"outoffocus_bgcolor_override"				"DarkBrown"
 
 		"item_xpos_offcenter_a"						"-310"
 		"item_xpos_offcenter_b"						"165"
@@ -84,7 +84,7 @@
 		"fieldName"									"ClassModelPanel"
 		"xpos"										"c-135"
 		"ypos"										"20"
-		"zpos"										"0"
+		"zpos"										"-1"
 		"wide"										"270"
 		"tall"										"340"
 		"visible"									"1"
@@ -159,7 +159,6 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"paintbackground"							"0"
- 		"font"										"InventoryOutline"
 	}
 	"ItemOptionsPanel"
 	{
@@ -171,7 +170,7 @@
 		"wide"										"140"
 		"tall"										"75"
 		"visible"									"0"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 		"PaintBackgroundType"						"0"
 	}
 	"CharacterLoadoutButton"
@@ -186,7 +185,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"AllCaps"									"1"
-		"font"										"InventoryOutline"
+		"font"										"HudFontSmallestBold"
 		"labelText"									"Items"
 		"textalignment"								"center"
 		"Command"									"characterloadout"
@@ -205,24 +204,11 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"AllCaps"									"1"
-		"font"										"InventoryOutline"
+		"font"										"HudFontSmallestBold"
 		"textalignment"								"center"
 		"labelText"									"Taunts"
 		"Command"									"tauntloadout"
 		"sound_depressed"							"UI/buttonclick.wav"
 		"paintbackground"							"1"
 	}
-	"bg"
-        {
-            "ControlName"                                "ImagePanel"
-            "fieldName"                                    "bg"
-            "xpos"                                        "0"
-            "ypos"                                        "-17"
-            "zpos"                                        "-1"
-            "wide"                                        "f0"
-            "tall"                                        "f0"
-            "visible"                                    "1"
-            "enabled"                                    "1"
-            "scaleImage"                                 "1"
-            "image"                                        "replay\thumbnails\inventorybg\inventory_bg"
 }

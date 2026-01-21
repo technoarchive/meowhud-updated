@@ -1,4 +1,4 @@
-"resource/ui/build_menu/bas_active.res"
+"Resource/UI/Build_Menu/Bas_Active.res"
 {
 	"Background"
 	{

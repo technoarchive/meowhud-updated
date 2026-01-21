@@ -1,4 +1,4 @@
-"resource/ui/hudbosshealth.res"
+"Resource/UI/HudBossHealth.res"
 {
 	"Background_Main"
 	{

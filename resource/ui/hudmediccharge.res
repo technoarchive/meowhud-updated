@@ -1,4 +1,4 @@
-"resource/ui/hudmediccharge.res"
+"Resource/UI/HudMedicCharge.res"
 {
 	"UberAnchor"
 	{
@@ -16,8 +16,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ChargeLabel"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-56"
+		"ypos"										"50"
 		"zpos"										"2"
 		"wide"										"150"
 		"tall"										"40"
@@ -25,7 +25,7 @@
 		"enabled"									"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"HudMedium"
+		"font"										"HudFontMedium"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"UberAnchor"
@@ -45,7 +45,7 @@
 		"enabled"									"1"
 		"labelText"									"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"								"center"
-		"font"										"HudMedium"
+		"font"										"HudFontMedium"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"UberAnchor"

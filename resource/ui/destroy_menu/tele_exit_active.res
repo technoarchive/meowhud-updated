@@ -1,6 +1,6 @@
-#base "base_active.res"
+#base "Base_Active.res"
 
-"resource/ui/destroy_menu/tele_exit_active.res"
+"Resource/UI/Destroy_Menu/Tele_Exit_Active.res"
 {
 	"BuildingName"
 	{

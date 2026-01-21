@@ -1,4 +1,4 @@
-"resource/ui/huddemomanpipes.res"
+"Resource/UI/HudDemomanPipes.res"
 {
 	"ChargeMeter"
 	{
@@ -7,7 +7,7 @@
 		"xpos"										"cs-0.5"
 		"ypos"										"r125"
 		"zpos"										"2"
-		"wide"										"80"
+		"wide"										"25"
 		"tall"										"4"
 		"visible"									"1"
 		"enabled"									"1"
@@ -25,7 +25,7 @@
 		"visible"									"1"
 		"enabled"									"0"
 		"proportionaltoparent"						"1"
-		"labelText"									"#TF_Charge"
+		"labelText"									"HOPIUM"
 		"textAlignment"								"center"
 		"font"										"FontStorePriceSmall"
 		"disabledfgcolor2_override"					"Gray"
@@ -47,7 +47,7 @@
 			"ControlName"							"CExLabel"
 			"fieldName"								"NumPipesLabel"
 			"xpos"									"cs-0.5"
-			"ypos"									"rs1-95"
+			"ypos"									"rs1-170"
 			"zpos"									"2"
 			"wide"									"30"
 			"tall"									"20"

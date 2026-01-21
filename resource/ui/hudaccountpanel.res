@@ -1,4 +1,4 @@
-"resource/ui/hudaccountpanel.res"
+"Resource/UI/HudAccountPanel.res"
 {
 	"CHudAccountPanel"
 	{
@@ -9,7 +9,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"AccountValue"
 		"xpos"										"cs-0.5"
-		"ypos"										"rs1-100"
+		"ypos"										"rs1-120"
 		"zpos"										"2"
 		"wide"										"100"
 		"tall"										"20"

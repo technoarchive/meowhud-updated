@@ -1,6 +1,6 @@
 #base "vsh_hud.res"
 
-"resource/ui/vsh_hud_hell.res"
+"Resource/UI/VSH_Hud_Hell.res"
 {
 	"ObjectiveStatusRobotDestruction"
 	{

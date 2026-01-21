@@ -1,4 +1,4 @@
-"resource/ui/teammenu.res"
+"Resource/UI/TeamMenu.res"
 {
 	"Team"
 	{
@@ -66,7 +66,7 @@
 		"paintbackground"							"0"
 
 		"defaultFgColor_override"					"HUDBlueTeamSolid"
-		"armedFgColor_override"						"70 110 130 255"
+		"armedFgColor_override"						"HUDBlueTeamSolid"
 		"depressedFgColor_override"					"HUDBlueTeamSolid"
 	}
 	"BlueShadow"
@@ -142,7 +142,7 @@
 		"paintbackground"							"0"
 
 		"defaultFgColor_override"					"HUDRedTeamSolid"
-		"armedFgColor_override"						"130 30 30 255"
+		"armedFgColor_override"						"HUDRedTeamSolid"
 		"depressedFgColor_override"					"HUDRedTeamSolid"
 	}
 	"RedShadow"

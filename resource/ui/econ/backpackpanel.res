@@ -1,4 +1,4 @@
-"resource/ui/econ/backpackpanel.res"
+"Resource/UI/Econ/BackPackPanel.res"
 {
 	"Backpack_Panel"
 	{
@@ -152,7 +152,7 @@
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 	}
 	"FiltersBG"
 	{
@@ -168,7 +168,7 @@
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"FooterBGBlack"
+		"bgcolor_override"							"DarkBrown"
 
 		"pin_to_sibling"							"BackpackBG"
 		"pin_corner_to_sibling"						"PIN_CENTER_BOTTOM"

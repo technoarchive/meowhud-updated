@@ -1,6 +1,6 @@
-#base "base_active_teleport_target.res"
+#base "Base_Active_Teleport_Target.res"
 
-"resource/ui/build_menu/base_unavailable.res"
+"Resource/UI/Build_Menu/Base_Unavailable.res"
 {
 	"Background"
 	{

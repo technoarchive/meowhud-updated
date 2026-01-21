@@ -1,4 +1,4 @@
-"resource/ui/krampus_boss_bar.res"
+"Resource/UI/Krampus_Boss_Bar.res"
 {
 	"ObjectiveStatusRobotDestruction"
 	{

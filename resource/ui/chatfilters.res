@@ -1,4 +1,4 @@
-"resource/ui/chatfilters.res"
+"Resource/UI/ChatFilters.res"
 {
 	"HudChatFilterPanel"
 	{

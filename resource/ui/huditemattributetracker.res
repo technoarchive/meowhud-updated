@@ -1,4 +1,4 @@
-"resource/ui/huditemattributetracker.res"
+"Resource/UI/HudItemAttributeTracker.res"
 {
 	"ItemAttributeTracker"
 	{

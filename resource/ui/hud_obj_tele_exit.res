@@ -1,4 +1,4 @@
-"resource/ui/hud_obj_tele_exit.res"
+"Resource/UI/Hud_Obj_Tele_Exit.res"
 {
 	"BuildingStatusItem"
 	{

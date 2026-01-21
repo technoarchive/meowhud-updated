@@ -1,4 +1,4 @@
-"resource/ui/scoreboard.res"
+"Resource/UI/Scoreboard.res"
 {
 	"Scores"
 	{
@@ -267,7 +267,7 @@
 		"proportionaltoparent"						"1"
 		"PaintBackground"							"1"
 		"PaintBackgroundType"						"2"
-		"bgcolor_override"							"0 0 0 150"
+		"bgcolor_override"							"TransparentLightBlack"
 		"roundedcorners"							"12"
 
 		"pin_to_sibling"							"PlayerListBG"
